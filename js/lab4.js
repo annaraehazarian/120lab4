@@ -25,7 +25,6 @@ $(document).ready(function() {
   var parentDiv = $("#templatedProjects");
 
   // BEGIN - STEP 1
-  /*
 
   // start with a simple template
   var html = template(simpleData);
@@ -39,7 +38,7 @@ $(document).ready(function() {
     parentDiv.append(curHtml);
   }
 
-  */
+  
   // END - STEP 1
 
 
